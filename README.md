@@ -1,1 +1,1 @@
-# Sem1-Projekt-repo
+This is the readme of WS19/20 project. 
